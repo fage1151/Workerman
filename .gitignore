@@ -3,3 +3,11 @@ logs
 .project
 .settings
 .idea
+.DS_Store
+vendor/
+/.vscode
+composer.lock
+phpunit.xml
+/phpstan.neon
+/*.pid
+/*.pid.lock
